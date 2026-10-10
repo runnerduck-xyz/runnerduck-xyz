@@ -6,17 +6,18 @@ runnerduck@github:~$ whoami
 Self-taught developer from Algeria.
 
 Building models, breaking assumptions,
-and learning by shipping.
+and learning by shippi -3la lah-.
 ```
 
 ## About
 
 ```bash
-runnerduck@github:~$ cat focus.txt
+runnerduck@github:~$ cat duck.txt
 
 Machine Learning
-Artificial Intelligence
 Data Science
+cybersecurity
+god related Science
 ```
 
 ## Tech Stack
